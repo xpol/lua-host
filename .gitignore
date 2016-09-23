@@ -31,3 +31,6 @@
 # Debug files
 *.dSYM/
 *.su
+
+# LuaRocks src rock files
+*.src.rock
