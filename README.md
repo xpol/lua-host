@@ -6,7 +6,7 @@ Constants about host os/arch/bits/endian for Lua.
 
 > luarocks install host
 
-``lua
+```lua
 local host = require('host')
 print(host.os)
 print(host.arch)
